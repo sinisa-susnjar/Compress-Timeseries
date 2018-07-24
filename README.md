@@ -107,7 +107,9 @@ This module is considered alpha and has many issues. Here is a non-exhaustive li
 4) can only work with files, no in-memory compression
 5) missing pod
 6) missing tests
-7) most certainly many more
+7) missing "constant" transform
+8) overall performance is sub-optimal
+9) most certainly many more
 
 # SUPPORT
 
