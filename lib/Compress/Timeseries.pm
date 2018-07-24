@@ -94,8 +94,9 @@ sub diffbz {
 	}
 	$self->bz->bzclose;
 	my $orig_sz = tell($fd);
-	printf "compression ratio: %.3f%%\n", ($orig_sz-$self->bz->total_out)/$orig_sz*100;
+	# printf "compression ratio: %.3f%%\n", ($orig_sz-$self->bz->total_out)/$orig_sz*100;
 	close($fd);
+	return ($orig_sz-$self->bz->total_out)/$orig_sz*100;
 }	# diffbz
 
 sub undiffbz {
