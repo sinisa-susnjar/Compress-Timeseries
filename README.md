@@ -95,18 +95,19 @@ the differenced data would look like this
     0      0           1             100      105        0     -100   18     -4         222
 
 The original data would have used up 210 bytes, while the differenced one only uses 129 bytes
-for a total compression of ~38% (before bzip3) - now imagine doing this for thousand of rows
+for a total compression of ~38% (before bzip2) - now imagine doing this for thousand of rows
 plus a final bzip2 step and you have some real space saver for your timeseries data :-)
 
 # KNOWN ISSUES
 
 This module is considered alpha and has many issues. Here is a non-exhaustive list:
 1) using timestamps is sloooow
-2) position of derived columns can only be after the columns it is derived from
+2) position of derived columns can only occur after the columns it is derived from
 3) adding user defined transformations not yet implemented
-4) missing pod
-5) missing tests
-6) most certainly many more
+4) can only work with files, no in-memory compression
+5) missing pod
+6) missing tests
+7) most certainly many more
 
 # SUPPORT
 
