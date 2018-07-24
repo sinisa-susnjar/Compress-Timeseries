@@ -58,16 +58,18 @@ typical compression rates are somewhere around 91-95%.
 If you have a large number of timeseries data files this can make quite an impact in
 disk utilisation.
 
-How it works:
-Let's say you have a file with this format:
-symbol date        time      open     high     low      close    volume  count  wap
-ES     2018-07-01  17:00:00  2800.00  2804.75  2799.50  2802.25  165     44     2803.45
-ES     2018-07-01  17:01:00  2801.00  2805.50  2800.50  2802.25  132     50     2803.55
-ES     2018-07-01  17:02:00  2802.00  2806.55  2800.50  2801.25  150     46     2801.33
-...etc...
+## How it works
 
-each line in this file needs 2 (symbol) + 10 (date) + 8 (time) + 5 * 7 (open,high,low,close,wap)
-+ 3 (volume) + 2 (count) + 10 (whitespace - 9 tabs plus newline) = 70 bytes of storage
+Let's say you have a file with the following format:
+
+    symbol date        time      open     high     low      close    volume  count  wap
+    ES     2018-07-01  17:00:00  2800.00  2804.75  2799.50  2802.25  165     44     2803.45
+    ES     2018-07-01  17:01:00  2801.00  2805.50  2800.50  2802.25  132     50     2803.55
+    ES     2018-07-01  17:02:00  2802.00  2806.55  2800.50  2801.25  150     46     2801.33
+    ...etc...
+
+each line in this file needs 2 (symbol) + 10 (date) + 8 (time) + 5 * 7 (open,high,low,close,wap) +
+3 (volume) + 2 (count) + 10 (whitespace - 9 tabs plus newline) = 70 bytes of storage
 
 now we start the mapping / differencing
 the first row will be used as-is as we need a starting point
@@ -86,10 +88,11 @@ after mapping / differencing the storage requirement for the second row dropped 
 and for the third row to 31 bytes
 
 the differenced data would look like this
-symbol date        time      open     high     low      close    volume  count  wap
-ES     2018-07-01  17:00:00  2800.00  2804.75  2799.50  2802.25  165     44     2803.45
-0      0           1             100       75      100        0  -33      6          10
-0      0           1             100      105        0     -100   18     -4         222
+
+    symbol date        time      open     high     low      close    volume  count  wap
+    ES     2018-07-01  17:00:00  2800.00  2804.75  2799.50  2802.25  165     44     2803.45
+    0      0           1             100       75      100        0  -33      6          10
+    0      0           1             100      105        0     -100   18     -4         222
 
 The original data would have used up 210 bytes, while the differenced one only uses 129 bytes
 for a total compression of ~38% (before bzip3) - now imagine doing this for thousand of rows
@@ -107,7 +110,7 @@ This module is considered alpha and has many issues. Here is a non-exhaustive li
 
 # SUPPORT
 
-Bugs may be submitted at [https://github.com/sinisa-susnjar/Compress-Timeseries/issues](https://github.com/sinisa.susnjar/Compress-Timeseries/issues).
+Bugs may be submitted at [https://github.com/sinisa-susnjar/Compress-Timeseries/issues](https://github.com/sinisa-susnjar/Compress-Timeseries/issues).
 
 # SOURCE
 
