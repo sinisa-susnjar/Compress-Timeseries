@@ -10,3 +10,4 @@ t/feed_file.txt.1$
 t/ticks.txt.1$
 # exclude license file to silence duplicate license file error
 LICENSE.txt
+cpanfile
