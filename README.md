@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sinisa-susnjar/Compress-Timeseries.svg?branch=master)](https://travis-ci.org/sinisa-susnjar/Compress-Timeseries)
+
 # NAME
 
 Compress::Timeseries - Compress timeseries-like data by keeping running differences and compressing them using Compress::Bzip2
