@@ -1,0 +1,138 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUILD	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub BUILD {$/;"	s
+BUILD	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub BUILD {$/;"	s
+BUILD	lib/Compress/Timeseries.pm	/^sub BUILD {$/;"	s
+Compress::Timeseries	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^package Compress::Timeseries;$/;"	p
+Compress::Timeseries	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^package Compress::Timeseries;$/;"	p
+Compress::Timeseries	lib/Compress/Timeseries.pm	/^package Compress::Timeseries;$/;"	p
+Compress::Timeseries::BUILD	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub BUILD {$/;"	s
+Compress::Timeseries::BUILD	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub BUILD {$/;"	s
+Compress::Timeseries::BUILD	lib/Compress/Timeseries.pm	/^sub BUILD {$/;"	s
+Compress::Timeseries::Transform	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform.pm	/^package Compress::Timeseries::Transform;$/;"	p
+Compress::Timeseries::Transform	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform.pm	/^package Compress::Timeseries::Transform;$/;"	p
+Compress::Timeseries::Transform	lib/Compress/Timeseries/Transform.pm	/^package Compress::Timeseries::Transform;$/;"	p
+Compress::Timeseries::Transform::DateTime	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/DateTime.pm	/^package Compress::Timeseries::Transform::DateTime;$/;"	p
+Compress::Timeseries::Transform::DateTime	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/DateTime.pm	/^package Compress::Timeseries::Transform::DateTime;$/;"	p
+Compress::Timeseries::Transform::DateTime	lib/Compress/Timeseries/Transform/DateTime.pm	/^package Compress::Timeseries::Transform::DateTime;$/;"	p
+Compress::Timeseries::Transform::DateTime::read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::DateTime::read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::DateTime::read	lib/Compress/Timeseries/Transform/DateTime.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::DateTime::write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::DateTime::write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::DateTime::write	lib/Compress/Timeseries/Transform/DateTime.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Float	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Float.pm	/^package Compress::Timeseries::Transform::Float;$/;"	p
+Compress::Timeseries::Transform::Float	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Float.pm	/^package Compress::Timeseries::Transform::Float;$/;"	p
+Compress::Timeseries::Transform::Float	lib/Compress/Timeseries/Transform/Float.pm	/^package Compress::Timeseries::Transform::Float;$/;"	p
+Compress::Timeseries::Transform::Float::read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Float.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Float::read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Float.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Float::read	lib/Compress/Timeseries/Transform/Float.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Float::write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Float.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Float::write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Float.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Float::write	lib/Compress/Timeseries/Transform/Float.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::HMS	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^package Compress::Timeseries::Transform::HMS;$/;"	p
+Compress::Timeseries::Transform::HMS	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^package Compress::Timeseries::Transform::HMS;$/;"	p
+Compress::Timeseries::Transform::HMS	lib/Compress/Timeseries/Transform/HMS.pm	/^package Compress::Timeseries::Transform::HMS;$/;"	p
+Compress::Timeseries::Transform::HMS::hms2sec	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub hms2sec {$/;"	s
+Compress::Timeseries::Transform::HMS::hms2sec	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub hms2sec {$/;"	s
+Compress::Timeseries::Transform::HMS::hms2sec	lib/Compress/Timeseries/Transform/HMS.pm	/^sub hms2sec {$/;"	s
+Compress::Timeseries::Transform::HMS::read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::HMS::read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::HMS::read	lib/Compress/Timeseries/Transform/HMS.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::HMS::sec2hms	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub sec2hms {$/;"	s
+Compress::Timeseries::Transform::HMS::sec2hms	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub sec2hms {$/;"	s
+Compress::Timeseries::Transform::HMS::sec2hms	lib/Compress/Timeseries/Transform/HMS.pm	/^sub sec2hms {$/;"	s
+Compress::Timeseries::Transform::HMS::write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::HMS::write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::HMS::write	lib/Compress/Timeseries/Transform/HMS.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Integer	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Integer.pm	/^package Compress::Timeseries::Transform::Integer;$/;"	p
+Compress::Timeseries::Transform::Integer	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Integer.pm	/^package Compress::Timeseries::Transform::Integer;$/;"	p
+Compress::Timeseries::Transform::Integer	lib/Compress/Timeseries/Transform/Integer.pm	/^package Compress::Timeseries::Transform::Integer;$/;"	p
+Compress::Timeseries::Transform::Integer::read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Integer.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Integer::read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Integer.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Integer::read	lib/Compress/Timeseries/Transform/Integer.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Integer::write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Integer.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Integer::write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Integer.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Integer::write	lib/Compress/Timeseries/Transform/Integer.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::String	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/String.pm	/^package Compress::Timeseries::Transform::String;$/;"	p
+Compress::Timeseries::Transform::String	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/String.pm	/^package Compress::Timeseries::Transform::String;$/;"	p
+Compress::Timeseries::Transform::String	lib/Compress/Timeseries/Transform/String.pm	/^package Compress::Timeseries::Transform::String;$/;"	p
+Compress::Timeseries::Transform::String::read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/String.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::String::read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/String.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::String::read	lib/Compress/Timeseries/Transform/String.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::String::write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/String.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::String::write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/String.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::String::write	lib/Compress/Timeseries/Transform/String.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Timestamp	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Timestamp.pm	/^package Compress::Timeseries::Transform::Timestamp;$/;"	p
+Compress::Timeseries::Transform::Timestamp	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Timestamp.pm	/^package Compress::Timeseries::Transform::Timestamp;$/;"	p
+Compress::Timeseries::Transform::Timestamp	lib/Compress/Timeseries/Transform/Timestamp.pm	/^package Compress::Timeseries::Transform::Timestamp;$/;"	p
+Compress::Timeseries::Transform::Timestamp::read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Timestamp::read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Timestamp::read	lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub read {$/;"	s
+Compress::Timeseries::Transform::Timestamp::write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Timestamp::write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub write {$/;"	s
+Compress::Timeseries::Transform::Timestamp::write	lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub write {$/;"	s
+Compress::Timeseries::add_transform	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub add_transform {$/;"	s
+Compress::Timeseries::add_transform	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub add_transform {$/;"	s
+Compress::Timeseries::add_transform	lib/Compress/Timeseries.pm	/^sub add_transform {$/;"	s
+Compress::Timeseries::diffbz	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub diffbz {$/;"	s
+Compress::Timeseries::diffbz	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub diffbz {$/;"	s
+Compress::Timeseries::diffbz	lib/Compress/Timeseries.pm	/^sub diffbz {$/;"	s
+Compress::Timeseries::undiffbz	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub undiffbz {$/;"	s
+Compress::Timeseries::undiffbz	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub undiffbz {$/;"	s
+Compress::Timeseries::undiffbz	lib/Compress/Timeseries.pm	/^sub undiffbz {$/;"	s
+add_transform	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub add_transform {$/;"	s
+add_transform	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub add_transform {$/;"	s
+add_transform	lib/Compress/Timeseries.pm	/^sub add_transform {$/;"	s
+diffbz	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub diffbz {$/;"	s
+diffbz	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub diffbz {$/;"	s
+diffbz	lib/Compress/Timeseries.pm	/^sub diffbz {$/;"	s
+hms2sec	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub hms2sec {$/;"	s
+hms2sec	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub hms2sec {$/;"	s
+hms2sec	lib/Compress/Timeseries/Transform/HMS.pm	/^sub hms2sec {$/;"	s
+read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub read {$/;"	s
+read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Float.pm	/^sub read {$/;"	s
+read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub read {$/;"	s
+read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Integer.pm	/^sub read {$/;"	s
+read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/String.pm	/^sub read {$/;"	s
+read	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub read {$/;"	s
+read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub read {$/;"	s
+read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Float.pm	/^sub read {$/;"	s
+read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub read {$/;"	s
+read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Integer.pm	/^sub read {$/;"	s
+read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/String.pm	/^sub read {$/;"	s
+read	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub read {$/;"	s
+read	lib/Compress/Timeseries/Transform/DateTime.pm	/^sub read {$/;"	s
+read	lib/Compress/Timeseries/Transform/Float.pm	/^sub read {$/;"	s
+read	lib/Compress/Timeseries/Transform/HMS.pm	/^sub read {$/;"	s
+read	lib/Compress/Timeseries/Transform/Integer.pm	/^sub read {$/;"	s
+read	lib/Compress/Timeseries/Transform/String.pm	/^sub read {$/;"	s
+read	lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub read {$/;"	s
+sec2hms	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub sec2hms {$/;"	s
+sec2hms	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub sec2hms {$/;"	s
+sec2hms	lib/Compress/Timeseries/Transform/HMS.pm	/^sub sec2hms {$/;"	s
+undiffbz	.build/T9sdnxJv5g/lib/Compress/Timeseries.pm	/^sub undiffbz {$/;"	s
+undiffbz	Compress-Timeseries-0.001/lib/Compress/Timeseries.pm	/^sub undiffbz {$/;"	s
+undiffbz	lib/Compress/Timeseries.pm	/^sub undiffbz {$/;"	s
+write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub write {$/;"	s
+write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Float.pm	/^sub write {$/;"	s
+write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/HMS.pm	/^sub write {$/;"	s
+write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Integer.pm	/^sub write {$/;"	s
+write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/String.pm	/^sub write {$/;"	s
+write	.build/T9sdnxJv5g/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub write {$/;"	s
+write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/DateTime.pm	/^sub write {$/;"	s
+write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Float.pm	/^sub write {$/;"	s
+write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/HMS.pm	/^sub write {$/;"	s
+write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Integer.pm	/^sub write {$/;"	s
+write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/String.pm	/^sub write {$/;"	s
+write	Compress-Timeseries-0.001/lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub write {$/;"	s
+write	lib/Compress/Timeseries/Transform/DateTime.pm	/^sub write {$/;"	s
+write	lib/Compress/Timeseries/Transform/Float.pm	/^sub write {$/;"	s
+write	lib/Compress/Timeseries/Transform/HMS.pm	/^sub write {$/;"	s
+write	lib/Compress/Timeseries/Transform/Integer.pm	/^sub write {$/;"	s
+write	lib/Compress/Timeseries/Transform/String.pm	/^sub write {$/;"	s
+write	lib/Compress/Timeseries/Transform/Timestamp.pm	/^sub write {$/;"	s
