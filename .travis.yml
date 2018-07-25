@@ -1,15 +1,12 @@
 sudo: false
 language: perl
 perl:
-   - '5.28'
    - '5.22'
    - '5.12'
-   - bleed
-   - '5.8'
+   - 'blead'
 matrix:
    allow_failures:
-      - perl: bleed
-      - perl: '5.8'
+      - perl: 'blead'
    fast_finish: true
 before_install:
    - git config --global user.name "TravisCI"
