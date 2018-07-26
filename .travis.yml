@@ -16,6 +16,5 @@ install:
 language: perl
 perl:
   - '5.22'
-  - '5.12'
 script:
-  - dzil smoke --release --author
+  - dzil cover
