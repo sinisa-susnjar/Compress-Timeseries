@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sinisa-susnjar/Compress-Timeseries.svg?branch=master)](https://travis-ci.org/sinisa-susnjar/Compress-Timeseries)
+[![Build Status](https://travis-ci.org/sinisa-susnjar/Compress-Timeseries.svg?branch=master)](https://travis-ci.org/sinisa-susnjar/Compress-Timeseries) [![Coverage Status](https://coveralls.io/repos/github/sinisa-susnjar/Compress-Timeseries/badge.svg?branch=master)](https://coveralls.io/github/sinisa-susnjar/Compress-Timeseries?branch=master)
 
 # NAME
 
